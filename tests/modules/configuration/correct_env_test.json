@@ -1,0 +1,13 @@
+{
+  "name": "Bot",
+  "version" : "V1.0",
+  "tokens": {
+    "telegram" : "telegram-token",
+    "blagueApi" : "blague-api-token"
+  },
+  "nextcloud" : {
+    "host":"http://localhost",
+    "login":"_login_", 
+    "password":"_password_"
+  }
+}
